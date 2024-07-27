@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SparkleClean Pressure Washing Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        h2 {
+            color: #3498db;
+            margin-top: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+            margin: 0;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        .offer {
+            background: #eaf0f6;
+            padding: 15px;
+            border-left: 5px solid #3498db;
+            margin-bottom: 20px;
+        }
+        .gallery {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 350px;
+            border-radius: 8px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.2);
+        }
+        .contact-info {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .button:hover {
+            background-color: #2980b9;
+        }
+        @media (max-width: 768px) {
+            .gallery {
+                flex-direction: column;
+                align-items: center;
+            }
+            .gallery img {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SparkleClean Pressure Washing Services</h1>
+        <p>Is your home or business looking a little dull? Transform it with our professional pressure washing services! At SparkleClean, we bring the shine back to your property, making it look brand new. 🏡✨</p>
+        
+        <h2>Our Services Include:</h2>
+        <ul>
+            <li>House Washing: Remove dirt, mold, and mildew from your siding.</li>
+            <li>Driveway & Walkway Cleaning: Eliminate stains, oil spots, and grime.</li>
+            <li>Deck & Patio Cleaning: Restore the beauty of your outdoor spaces.</li>
+            <li>Roof Cleaning: Safely remove algae, moss, and debris.</li>
+            <li>Commercial Pressure Washing: Keep your business looking professional and inviting.</li>
+        </ul>
+
+        <div class="offer">
